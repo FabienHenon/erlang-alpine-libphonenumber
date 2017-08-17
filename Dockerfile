@@ -1,4 +1,4 @@
-FROM bitwalker/alpine-erlang:19.2.1b
+FROM bitwalker/alpine-erlang:20.0.1
 
 MAINTAINER Fabien Henon <henon.fabien@softcreations.fr>
 
